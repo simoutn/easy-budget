@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-label="Illustration économiser chaque mois">
+  <rect width="1200" height="675" fill="#f4f6ff"/>
+  <circle cx="600" cy="320" r="170" fill="#ffffff" stroke="#e7e9ee" stroke-width="6"/>
+  <rect x="460" y="240" width="280" height="180" rx="90" fill="#fbfbff" stroke="#e7e9ee" stroke-width="4"/>
+  <rect x="520" y="210" width="160" height="56" rx="28" fill="#3b5bff"/>
+  <text x="600" y="600" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, Roboto, Arial" font-size="34" font-weight="800" fill="#1a1a1a">Économiser</text>
+  <text x="600" y="635" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, Roboto, Arial" font-size="18" fill="#5b6470">Image placeholder (à remplacer)</text>
+</svg>

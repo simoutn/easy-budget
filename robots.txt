@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://simoutn.github.io/easy-budget/sitemap.xml

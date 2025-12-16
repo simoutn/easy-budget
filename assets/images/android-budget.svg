@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-label="Illustration application budget Android">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#3b5bff"/>
+      <stop offset="1" stop-color="#7b8dff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="#f4f6ff"/>
+  <rect x="380" y="90" width="440" height="495" rx="46" fill="#ffffff" stroke="#e7e9ee" stroke-width="6"/>
+  <rect x="440" y="170" width="320" height="300" rx="24" fill="#fbfbff" stroke="#e7e9ee" stroke-width="4"/>
+  <rect x="460" y="210" width="280" height="46" rx="14" fill="url(#g)"/>
+  <rect x="460" y="280" width="240" height="20" rx="10" fill="#e7e9ee"/>
+  <rect x="460" y="320" width="280" height="20" rx="10" fill="#e7e9ee"/>
+  <rect x="460" y="360" width="220" height="20" rx="10" fill="#e7e9ee"/>
+  <text x="600" y="600" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, Roboto, Arial" font-size="34" font-weight="800" fill="#1a1a1a">Budget Android</text>
+  <text x="600" y="635" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, Roboto, Arial" font-size="18" fill="#5b6470">Image placeholder (à remplacer)</text>
+</svg>

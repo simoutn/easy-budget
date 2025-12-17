@@ -209,6 +209,9 @@ a:hover {
 .hero-card img {
   border-radius: calc(var(--radius) - 6px);
   border: 1px solid var(--border);
+  max-height: 520px;
+  width: auto;
+  margin-inline: auto;
 }
 
 .kpis {
